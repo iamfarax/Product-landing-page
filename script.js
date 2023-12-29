@@ -1,0 +1,1 @@
+console.log("This is all about the javascript using in this website")

@@ -1,0 +1,51 @@
+@media only screen and (max-width: 1150px) {
+  .main-container {
+    width: 100%;
+  }
+  .header-section {
+    flex-direction: column;
+  }
+  .contant-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .m-heading {
+    font-size: 2.5rem;
+  }
+  .img-section {
+    width: 100%;
+    margin-top: 8%;
+  }
+  .section2 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .brand-contant {
+    width: 100%;
+    margin-top: 12%;
+  }
+  .about-brand-collection-h {
+    font-size: 3rem;
+    text-align: left;
+  }
+  .cart-img {
+    width: 100%;
+    flex-direction: column;
+  }
+  .cart-img img {
+    margin-top: 5%;
+  }
+  .cart-item2 {
+    flex-direction: column-reverse;
+  }
+  .cart2-img {
+    width: 100%;
+  }
+  .cart-para {
+    width: 100%;
+    padding: 0 0;
+  }
+}
